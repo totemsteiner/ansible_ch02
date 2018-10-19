@@ -1,0 +1,4 @@
+#ansible host file
+master ansible_ssh_host=127.0.0.1 ansible_ssh_port=2202
+node1 ansible_ssh_host=127.0.0.1 ansible_ssh_port=2203
+node2 ansible_ssh_host=127.0.0.1 ansible_ssh_port=2204
